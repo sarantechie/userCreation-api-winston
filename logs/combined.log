@@ -1,0 +1,38 @@
+[2024-12-25T08:41:28.555Z] INFO: Connected to MongoDB successfully
+[2024-12-25T08:41:28.563Z] INFO: Server running on port 5000
+[2024-12-25T08:42:42.796Z] INFO: Connected to MongoDB successfully
+[2024-12-25T08:42:42.803Z] INFO: Server running on port 5000
+[2024-12-25T12:50:02.134Z] INFO: Connected to MongoDB successfully
+[2024-12-25T12:50:02.149Z] INFO: Server running on port 5000
+[2024-12-25T12:51:04.841Z] INFO: Connected to MongoDB successfully
+[2024-12-25T12:51:04.849Z] INFO: Server running on port 5000
+[2024-12-25T12:52:38.703Z] INFO: Connected to MongoDB successfully
+[2024-12-25T12:52:38.712Z] INFO: Server running on port 5000
+[2024-12-25T12:55:26.128Z] INFO: Connected to MongoDB successfully
+[2024-12-25T12:55:26.141Z] INFO: Server running on port 5000
+[2024-12-25T12:56:05.310Z] INFO: Connected to MongoDB successfully
+[2024-12-25T12:56:05.316Z] INFO: Server running on port 5000
+[2024-12-25T12:56:29.321Z] INFO: User registered successfully: saranyaseswaran@gmail.com
+[2024-12-26T03:54:36.873Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T03:55:46.300Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T03:56:30.301Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T03:56:41.121Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T03:59:56.736Z] WARN: Registration failed: User with email saranyaseswaran@gmail.com already exists
+[2024-12-26T04:00:46.340Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:01:02.963Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:01:14.790Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:01:27.623Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:01:46.723Z] WARN: Registration failed: User with email saranyaseswaran@gmail.com already exists
+[2024-12-26T04:02:32.189Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:02:53.562Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:04:36.196Z] WARN: Login failed: User with email admin@smartcliff.in not found
+[2024-12-26T04:04:52.311Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T04:05:13.736Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T04:05:23.607Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T04:15:48.527Z] WARN: Login failed: User with email undefined not found
+[2024-12-26T04:17:41.579Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T04:19:10.256Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T04:19:20.933Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T04:31:44.113Z] INFO: User logged in successfully: saranyaseswaran@gmail.com
+[2024-12-26T06:03:36.914Z] INFO: Connected to MongoDB successfully
+[2024-12-26T06:03:36.925Z] INFO: Server running on port 5000
